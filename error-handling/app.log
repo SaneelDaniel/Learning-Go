@@ -1,0 +1,10 @@
+2021/08/18 13:15:17 error: open /path/to/config.toml: no such file or directory
+can't open configuration file
+main.readConfig
+	/Users/danielsaneel/Desktop/DevelopmentEnvLocal/Go-Lang/Linkedin-Learning-Cert/Git-Clone/learning-2/error-handling/errors.go:20
+main.main
+	/Users/danielsaneel/Desktop/DevelopmentEnvLocal/Go-Lang/Linkedin-Learning-Cert/Git-Clone/learning-2/error-handling/errors.go:41
+runtime.main
+	/usr/local/go/src/runtime/proc.go:255
+runtime.goexit
+	/usr/local/go/src/runtime/asm_amd64.s:1581
